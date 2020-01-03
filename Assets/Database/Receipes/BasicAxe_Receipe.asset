@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb7b48405e4099349a81340f5156b552, type: 3}
+  m_Name: BasicAxe_Receipe
+  m_EditorClassIdentifier: 
+  recipeName: Hacha Basica
+  ingredients:
+  - item: {fileID: 11400000, guid: 340144b4c9c858a43a63f855945de9b8, type: 2}
+    quantity: 1
+  - item: {fileID: 11400000, guid: c15c22e78d7bb364db56fe1ccec83e27, type: 2}
+    quantity: 1
+  craftItem: {fileID: 11400000, guid: 14c053051556cad48ada4bee1827e3eb, type: 2}

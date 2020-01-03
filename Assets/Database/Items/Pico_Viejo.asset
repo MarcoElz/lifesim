@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61401ac88498ce5428a4f3179e4474f0, type: 3}
+  m_Name: Pico_Viejo
+  m_EditorClassIdentifier: 
+  id: 41
+  sprite: {fileID: 21300000, guid: 368efe86a1abb5d4eb2acafac30e5c24, type: 3}
+  itemName: Pico Viejo
+  description: "Es un pico muy viejo, puedes tratar de picar piedra pero ser\xE1 muy
+    dif\xEDcil."
+  category: 1
+  wiki: 
+  price: 0

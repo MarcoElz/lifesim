@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a9389d3fcdf0fd4ea076ecd2cf00f35, type: 3}
+  m_Name: Poly
+  m_EditorClassIdentifier: 
+  id: 0
+  stages:
+  - prefab: {fileID: 1890164827695510, guid: 60a133ff8dd5fb840bcc08d258ee8aef, type: 2}
+    time: 2
+  - prefab: {fileID: 1167995705042788, guid: 88c6d22132aa703429617eec49d94989, type: 2}
+    time: 4
+  - prefab: {fileID: 1663914626906854, guid: 79cfdd76baf79bf4398b860c5221af00, type: 2}
+    time: 8
+  crop: {fileID: 1136367827795248, guid: c2d6ee9af9fa5064db06a646cf14508d, type: 2}
+  daysToCollect: 2

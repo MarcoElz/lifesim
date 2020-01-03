@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/TitleScreen.unity
+    guid: dc01c534e3da524498350f5ca6435582
+  - enabled: 1
+    path: Assets/_Scenes/Tutorial.unity
+    guid: 3b4d9de6ef5d7bb47bc36a87511f5e3c
+  - enabled: 1
+    path: Assets/_Scenes/House.unity
+    guid: 05e10fcedf09d5d4984678182af6a0a2
+  - enabled: 1
+    path: Assets/_Scenes/Farm.unity
+    guid: 32ff7241536d5b74684e8f0cc7363f8b
+  - enabled: 1
+    path: Assets/_Scenes/AncientWoods.unity
+    guid: 20d861f9e98da894fbd8dea3d1717888
+  - enabled: 1
+    path: Assets/_Scenes/Mine.unity
+    guid: 73d345ed772afe546ad2fcba06bdf46b
+  - enabled: 1
+    path: Assets/_Scenes/MountainBase.unity
+    guid: c8b021e0129efeb43b3dd0a9964b78d2
+  - enabled: 1
+    path: Assets/_Scenes/Observatory.unity
+    guid: 376090b107a42344eab9c3ddbb13cf90
+  - enabled: 1
+    path: Assets/_Scenes/Shop_Cattle.unity
+    guid: 47039dc023ed0f34f9e1567b21c4f15b
+  - enabled: 1
+    path: Assets/_Scenes/Labo.unity
+    guid: 599dfde0688f2c14792e64b01c1c5d01
+  - enabled: 1
+    path: Assets/_Scenes/Shop_Library.unity
+    guid: f493736317e23e84590c035cbf003dca
+  - enabled: 1
+    path: Assets/_Scenes/Shop_Merchant.unity
+    guid: 79eeb77059b50354db32d1b5f8c5560a
+  - enabled: 1
+    path: Assets/_Scenes/Shop_Museum.unity
+    guid: c853cbee935c4db4880e6d1cf298357f
+  - enabled: 1
+    path: Assets/_Scenes/Shop_Music.unity
+    guid: ede79ba2c3cae2d459367293e6394bd7
+  - enabled: 1
+    path: Assets/_Scenes/Shop_Smithy.unity
+    guid: 1b9a593b2cc4d174d8346ad11802b19c
+  - enabled: 1
+    path: Assets/_Scenes/Shop_Woodwork.unity
+    guid: fff68424ee7289f479ffc3628eeba8ca
+  - enabled: 1
+    path: Assets/_Scenes/Temple_000.unity
+    guid: 1392ddb080872f54aae2f3326d807558
+  - enabled: 1
+    path: Assets/_Scenes/Temple_001.unity
+    guid: 98a9bc9d5709f1d40a7be774f166e39a
+  - enabled: 1
+    path: Assets/_Scenes/Temple_002.unity
+    guid: 64841e241a6d5b8458229b7405ee5fc3
+  - enabled: 1
+    path: Assets/_Scenes/TopMountain.unity
+    guid: 59f45d407c77c3d49af4acc037ad05a5
+  - enabled: 1
+    path: Assets/_Scenes/Town.unity
+    guid: 891929dc156b5824ab016676fdb47d21
+  - enabled: 1
+    path: Assets/_Scenes/Woods.unity
+    guid: 81fc3264b5dc4b345ad298898dbfd8b8
+  - enabled: 1
+    path: Assets/_Scenes/MGame_Space.unity
+    guid: b460cc98ac6e5ff4cad36b81a5ab0cbb
+  - enabled: 1
+    path: Assets/_Scenes/MGame_Health.unity
+    guid: ae926334cce3bdc46afebc58b66d2fb3

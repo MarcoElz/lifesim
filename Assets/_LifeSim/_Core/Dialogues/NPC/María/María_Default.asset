@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00a415b33895b934bad154a37c427fd7, type: 3}
+  m_Name: "Mar\xEDa_Default"
+  m_EditorClassIdentifier: 
+  dialogues:
+  - text: "Hola. Mi madre es la due\xF1a, pero hoy yo estoy a cargo."
+    emotion: 0
+  - text: "\xBFTe gustar\xEDa poder cuidar de una gran variedad de animales?\r\nTe
+      podemos ayudar a conseguir gallinas, vacas, borregos, entre otros animales de
+      granja. Pero primero necesitar\xE1s crear construcciones para que tengan donde
+      vivir.\r\n"
+    emotion: 0
+  - text: Hay que cuidar y proteger a los animales, ellos son nuestros amigos.
+    emotion: 0

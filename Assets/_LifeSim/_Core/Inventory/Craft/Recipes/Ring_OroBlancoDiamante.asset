@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb7b48405e4099349a81340f5156b552, type: 3}
+  m_Name: Ring_OroBlancoDiamante
+  m_EditorClassIdentifier: 
+  recipeName: Anillo de Oro Blanco con Diamante
+  ingredients:
+  - item: {fileID: 11400000, guid: cb915e4fc9bca804cb71b869c68b3cd4, type: 2}
+    quantity: 1
+  - item: {fileID: 11400000, guid: 4b1d5f8cbc1ef2a43a094bf42cf93da1, type: 2}
+    quantity: 1
+  craftItem: {fileID: 11400000, guid: c8a06bda69037e844b63675d5e53ea8b, type: 2}

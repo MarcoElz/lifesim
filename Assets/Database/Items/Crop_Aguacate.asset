@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ab89cfcc0eb82a45baa895fa8281287, type: 3}
+  m_Name: Crop_Aguacate
+  m_EditorClassIdentifier: 
+  id: 12
+  sprite: {fileID: 21300000, guid: 2a5182f2f2484954d8bcf2ca3067810b, type: 3}
+  itemName: Aguacate
+  description: Nutritivo aguacate. Puedes cocinarlo o venderlo.
+  category: 3
+  wiki: "M\xE9xico es el l\xEDder mundial en producci\xF3n de esta fruta. Estados
+    Unidos es su principal comprados."
+  price: 50

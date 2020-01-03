@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61401ac88498ce5428a4f3179e4474f0, type: 3}
+  m_Name: Sword_Madera
+  m_EditorClassIdentifier: 
+  id: 32
+  sprite: {fileID: 21300000, guid: 7566784e2ece0b647a68b8c58527938e, type: 3}
+  itemName: Espada de Madera
+  description: "Una espada de adorno fabricada a partir de madera.\r"
+  category: 1
+  wiki: 
+  price: 50

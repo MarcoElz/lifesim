@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00a415b33895b934bad154a37c427fd7, type: 3}
+  m_Name: Cristina_Default
+  m_EditorClassIdentifier: 
+  dialogues:
+  - text: "\xBFQu\xE9 ocurre con esa cara?No te esperabas ver una nave espacial aqu\xED
+      dentro, \xBFverdad?\r\nPues espera algo mejor\u2026.\r\n"
+    emotion: 0
+  - text: "\xBFQuieres entrar a la nave y explorar el sistema solar?\r\nAc\xE9rcate
+      a la nave espacial si quieres ir a explorar. \r\nCuando est\xE9s en el espacio
+      podr\xE1s manejar la nave espacial, y al acercarte a alg\xFAn planeta aprender\xE1s
+      nueva informaci\xF3n.\r\n"
+    emotion: 0
+  - text: "\xBFNo te parece maravillosa la idea de que existen millones de estrellas
+      all\xE1 afuera, planetas nunca antes vistos?\r\n\xA1Que emocionante!\r\n"
+    emotion: 0
+  - text: "Como te podr\xE1s dar cuenta me fascina el enorme universo, podr\xEDa estar
+      viendo a trav\xE9s del telescopio el hermoso espacio y las estrellas por horas.
+      Pero lamentablemente la contaminaci\xF3n ha llegado muy cerca y nubla el cielo
+      nocturno\u2026 Es lamentable\u2026"
+    emotion: 0

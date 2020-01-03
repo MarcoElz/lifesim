@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00a415b33895b934bad154a37c427fd7, type: 3}
+  m_Name: Francisco_Default
+  m_EditorClassIdentifier: 
+  dialogues:
+  - text: "Disculpa el desorden, mi \xFAltimo experimento no sali\xF3 como esperaba\u2026"
+    emotion: 0
+  - text: "\xBFQuisieras ayudarme con mi pr\xF3ximo experimento?\r\n\xA1Entraras al
+      cuerpo humano!\r\n"
+    emotion: 0
+  - text: "\xA1Tengo un grandioso invento que te vuelve de tama\xF1o microsc\xF3pico!"
+    emotion: 0
+  - text: "\xA1Solo cuidado con los dientes jajaja!"
+    emotion: 0
+  - text: "La verdad es que me dio una gripe, estas f\xE1bricas que se mudaron cerca
+      est\xE1n contaminando mucho el medio ambiente\u2026"
+    emotion: 0
+  - text: "Quisiera que limpiaras mi garganta de todo virus que se encuentre ah\xED."
+    emotion: 0
+  - text: "Si me quieres ayudar ve y si\xE9ntate en esta m\xE1quina atr\xE1s de mi.
+      \r\nTendr\xE1s que proteger a los gl\xF3bulos rojos, mientras disparas a los
+      virus con el clic izquierdo.\r\n"
+    emotion: 0

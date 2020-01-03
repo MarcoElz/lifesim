@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb7b48405e4099349a81340f5156b552, type: 3}
+  m_Name: Axe_Bronce
+  m_EditorClassIdentifier: 
+  recipeName: Hacha de Bronce
+  ingredients:
+  - item: {fileID: 11400000, guid: 742dfafebf9de964b987ab5592f01ab2, type: 2}
+    quantity: 1
+  - item: {fileID: 11400000, guid: 3f09337922502e34ab852d54071c06fa, type: 2}
+    quantity: 10
+  craftItem: {fileID: 11400000, guid: a1cf161772b5b3a4cbc3a2fa5d815f95, type: 2}

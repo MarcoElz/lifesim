@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00a415b33895b934bad154a37c427fd7, type: 3}
+  m_Name: Ricardo_Default
+  m_EditorClassIdentifier: 
+  dialogues:
+  - text: "Los libros son fant\xE1sticos, hay muchos tipos de libros.\r\nUnos sirven
+      para aprender, y otros para transportarte a mundos fant\xE1sticos.\r\n"
+    emotion: 0
+  - text: "He escuchado que con un poco de magia podr\xEDas viajar al mundo dentro
+      de los libros y vivir historias incre\xEDbles. Quiz\xE1s con la ayuda de esa
+      compa\xF1era tuya puedas lograrlo alg\xFAn d\xEDa."
+    emotion: 0

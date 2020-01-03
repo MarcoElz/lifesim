@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ab89cfcc0eb82a45baa895fa8281287, type: 3}
+  m_Name: R_GlassBroken
+  m_EditorClassIdentifier: 
+  id: 24
+  sprite: {fileID: 21300000, guid: 3767581763c8c18468314bf77f73d5f4, type: 3}
+  itemName: Vidrio Roto
+  description: "Deber\xEDamos recolectar m\xE1s y separarlo para su reciclaje."
+  category: 3
+  wiki: El vidrio es un material que puede ser reciclado.
+  price: 1

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a9389d3fcdf0fd4ea076ecd2cf00f35, type: 3}
+  m_Name: Aguacate
+  m_EditorClassIdentifier: 
+  id: 1
+  stages:
+  - prefab: {fileID: 1977210955621140, guid: 6d747e1b801f36242b9018de5a65fa79, type: 2}
+    time: 2
+  - prefab: {fileID: 1877505662187638, guid: 4f7cfb2c02059f343a365d690576fa6c, type: 2}
+    time: 4
+  - prefab: {fileID: 1313314728365714, guid: dd815584bf28b5241b8ea5f069f25c65, type: 2}
+    time: 6
+  crop: {fileID: 1776117329362374, guid: bdfdc0e9ed2a25248841a7f944696233, type: 2}
+  daysToCollect: 2

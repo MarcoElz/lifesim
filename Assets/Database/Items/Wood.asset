@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ab89cfcc0eb82a45baa895fa8281287, type: 3}
+  m_Name: Wood
+  m_EditorClassIdentifier: 
+  id: 7
+  sprite: {fileID: 21300000, guid: e76d3524cac89ef4fb441c39cb4fb2e6, type: 3}
+  itemName: Madera
+  description: "Madera talada de un \xE1rbol. Sirve para la construcci\xF3n."
+  category: 3
+  wiki: "Madera talada de un \xE1rbol. Sirve para construir diversos objetos."
+  price: 1

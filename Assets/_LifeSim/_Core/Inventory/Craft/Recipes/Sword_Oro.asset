@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb7b48405e4099349a81340f5156b552, type: 3}
+  m_Name: Sword_Oro
+  m_EditorClassIdentifier: 
+  recipeName: Espada de Oro
+  ingredients:
+  - item: {fileID: 11400000, guid: 9c36860bde844f34c90e3ad06f164a3d, type: 2}
+    quantity: 25
+  - item: {fileID: 11400000, guid: 4b1d5f8cbc1ef2a43a094bf42cf93da1, type: 2}
+    quantity: 1
+  craftItem: {fileID: 11400000, guid: c32758d1a5e34524cb80667fe8940cc0, type: 2}

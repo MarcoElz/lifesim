@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ab89cfcc0eb82a45baa895fa8281287, type: 3}
+  m_Name: Crop_Maiz
+  m_EditorClassIdentifier: 
+  id: 11
+  sprite: {fileID: 21300000, guid: b0cf04bb7a2cd214b9f7c81846a87dfe, type: 3}
+  itemName: "Ma\xEDz"
+  description: "Sabroso ma\xEDz. Puedes cocinarlo o venderlo."
+  category: 3
+  wiki: "El ma\xEDz es el cereal de mayor producci\xF3n a nivel mundial, por encima
+    del trigo y del arroz."
+  price: 50

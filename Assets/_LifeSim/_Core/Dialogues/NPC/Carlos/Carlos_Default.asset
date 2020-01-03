@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00a415b33895b934bad154a37c427fd7, type: 3}
+  m_Name: Carlos_Default
+  m_EditorClassIdentifier: 
+  dialogues:
+  - text: "Te voy a contar un secreto ni\xF1o. Si vas camino a la monta\xF1a encontrar\xE1s
+      una mina, y dentro de ella podr\xE1s encontrar muchos minerales y objetos raros.
+      Con el pico que llevas ah\xED podr\xE1s explorar sin ning\xFAn problema."
+    emotion: 0
+  - text: "Cuando consigas mas materiales, podr\xE1s usar mi taller que est\xE1 detr\xE1s
+      m\xEDo para que puedas crear muchos objetos muy valiosos que podr\xE1s vender."
+    emotion: 0

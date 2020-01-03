@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a9389d3fcdf0fd4ea076ecd2cf00f35, type: 3}
+  m_Name: Elote
+  m_EditorClassIdentifier: 
+  id: 2
+  stages:
+  - prefab: {fileID: 1767291702970738, guid: 82b4938ee3c79724793f1bc1e7e077a0, type: 2}
+    time: 2
+  - prefab: {fileID: 1294103683240044, guid: e72fe5c44f1d13d40b2b4a2c1c18cf48, type: 2}
+    time: 4
+  - prefab: {fileID: 1853862253670552, guid: e4ec397c772304343be2907dc5e511b2, type: 2}
+    time: 6
+  crop: {fileID: 1492277588988954, guid: 6d02116cdb413aa429b43e54a417f3c9, type: 2}
+  daysToCollect: 2

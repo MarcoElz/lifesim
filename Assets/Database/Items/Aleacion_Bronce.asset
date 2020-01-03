@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ab89cfcc0eb82a45baa895fa8281287, type: 3}
+  m_Name: Aleacion_Bronce
+  m_EditorClassIdentifier: 
+  id: 18
+  sprite: {fileID: 21300000, guid: dcfc7abf83fa2a141aec90cf12f614ce, type: 3}
+  itemName: Bronce
+  description: " El bronce es una aleaci\xF3n de cobre y esta\xF1o.\r"
+  category: 3
+  wiki: "El bronce se emplea especialmente en aleaciones conductoras del calor,y otras
+    aplicaciones donde se requiere alta resistencia a la corrosi\xF3n como rodetes
+    de turbinas o v\xE1lvulas de bombas, entre otros elementos de m\xE1quinas\r."
+  price: 30

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00a415b33895b934bad154a37c427fd7, type: 3}
+  m_Name: Enrique_Default
+  m_EditorClassIdentifier: 
+  dialogues:
+  - text: "\xA1Tienes cara de aventurero muchacho!\r\nTe propongo un trato\u2026\r"
+    emotion: 0
+  - text: "Al museo le hace falta m\xE1s exhibiciones, si me traes objetos raros te
+      recompensare muy bien. Aunque\u2026 por ahora el museo esta en remodelacion
+      jajajaja.\r\nSer\xE1 mejor en otra ocasi\xF3n.\r\n"
+    emotion: 0
+  - text: "A pesar de eso, si me traes partes de un f\xF3sil te puedo ayudar a reconstruirlo."
+    emotion: 0
